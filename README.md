@@ -1,0 +1,2 @@
+# postmain
+postmain  マルチプラットフォームのメッセージプッシュ
